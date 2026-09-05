@@ -12,14 +12,7 @@
   "products": [],
   "doctors": [],
   "chemists": [],
-  "areas": [
-    "Civil Lines",
-    "Station Road",
-    "Medical Square",
-    "Ring Road",
-    "Hospital Road",
-    "Central Market"
-  ],
+  "areas": [],
   "stockists": [
     {
       "id": "stk-1",
@@ -38,5 +31,5 @@
   ],
   "orders": [],
   "callLogs": [],
-  "syncDate": "2026-09-05T20:00:20.949Z"
+  "syncDate": "2026-09-05T20:00:30.112Z"
 }
