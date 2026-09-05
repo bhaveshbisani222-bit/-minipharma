@@ -10,48 +10,7 @@
     "currency": "₹"
   },
   "products": [],
-  "doctors": [
-    {
-      "id": "dr-3",
-      "name": "Dr. Sunita Deshmukh",
-      "degree": "MBBS, DGO, MS (Obstetrics & Gynaecology)",
-      "specialty": "Gynecologist",
-      "clinic": "Matritva Maternity & Nursing Home",
-      "area": "Ring Road",
-      "address": "Near LIC Square, Ring Road",
-      "phone": "9765432109",
-      "visitTime": "11:30 AM - 1:30 PM",
-      "callingDays": [
-        "Monday",
-        "Thursday"
-      ],
-      "promotedProducts": [
-        "FERROGLOW-XT",
-        "CALCITRUE-D3",
-        "CLAVMOX-625"
-      ]
-    },
-    {
-      "id": "dr-4",
-      "name": "Dr. Vivek Saxena",
-      "degree": "MBBS, MD (Pediatrics), DCH",
-      "specialty": "Pediatrician",
-      "clinic": "Little Stars Child Clinic",
-      "area": "Medical Square",
-      "address": "2nd Floor, Apollo Arcade",
-      "phone": "9912345678",
-      "visitTime": "12:00 PM - 2:00 PM",
-      "callingDays": [
-        "Wednesday",
-        "Saturday"
-      ],
-      "promotedProducts": [
-        "AZICHEM-500",
-        "KOFSTOP-LS",
-        "MONTEL-LC"
-      ]
-    }
-  ],
+  "doctors": [],
   "chemists": [
     {
       "id": "ch-1",
@@ -113,5 +72,5 @@
   ],
   "orders": [],
   "callLogs": [],
-  "syncDate": "2026-09-05T20:00:10.267Z"
+  "syncDate": "2026-09-05T20:00:15.767Z"
 }
