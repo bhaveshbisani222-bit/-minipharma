@@ -11,41 +11,7 @@
   },
   "products": [],
   "doctors": [],
-  "chemists": [
-    {
-      "id": "ch-1",
-      "storeName": "Sanjivani Medical Store",
-      "ownerName": "Pawan Kumar",
-      "phone": "9898989801",
-      "area": "Station Road",
-      "address": "Near Civil Hospital Gate, Station Road",
-      "dlNumber": "DL-20B/21B-45892",
-      "stockist": "Mahaveer Drug Distributors",
-      "creditDays": 30
-    },
-    {
-      "id": "ch-2",
-      "storeName": "Gupta Medicos & Surgical",
-      "ownerName": "Ramesh Gupta",
-      "phone": "9898989802",
-      "area": "Medical Square",
-      "address": "Shop 12, Medical Square Market",
-      "dlNumber": "DL-20B/21B-77123",
-      "stockist": "Mahaveer Drug Distributors",
-      "creditDays": 21
-    },
-    {
-      "id": "ch-3",
-      "storeName": "National Pharmacy",
-      "ownerName": "Amitabh Jain",
-      "phone": "9898989803",
-      "area": "Civil Lines",
-      "address": "Opposite Maternity Hospital",
-      "dlNumber": "DL-20B/21B-89341",
-      "stockist": "Balaji Pharma Distributors",
-      "creditDays": 15
-    }
-  ],
+  "chemists": [],
   "areas": [
     "Civil Lines",
     "Station Road",
@@ -72,5 +38,5 @@
   ],
   "orders": [],
   "callLogs": [],
-  "syncDate": "2026-09-05T20:00:15.767Z"
+  "syncDate": "2026-09-05T20:00:20.949Z"
 }
