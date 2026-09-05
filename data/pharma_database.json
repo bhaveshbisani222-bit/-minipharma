@@ -12,48 +12,6 @@
   "products": [],
   "doctors": [
     {
-      "id": "dr-1",
-      "name": "Dr. Rajesh Sharma",
-      "degree": "MBBS, MD (General Medicine)",
-      "specialty": "Physician",
-      "clinic": "City Health Care & Diabetes Center",
-      "area": "Civil Lines",
-      "address": "Shop 4, Civil Lines, Main Market",
-      "phone": "9876543210",
-      "visitTime": "1:00 PM - 3:00 PM",
-      "callingDays": [
-        "Monday",
-        "Wednesday",
-        "Friday"
-      ],
-      "promotedProducts": [
-        "AZICHEM-500",
-        "PANTOZEN-DSR",
-        "VITALGOLD"
-      ]
-    },
-    {
-      "id": "dr-2",
-      "name": "Dr. Alok Verma",
-      "degree": "MBBS, MS (Orthopedics)",
-      "specialty": "Orthopedic",
-      "clinic": "Verma Bone & Joint Hospital",
-      "area": "Station Road",
-      "address": "Opposite District Hospital, Station Road",
-      "phone": "9823456781",
-      "visitTime": "2:00 PM - 4:00 PM",
-      "callingDays": [
-        "Tuesday",
-        "Thursday",
-        "Saturday"
-      ],
-      "promotedProducts": [
-        "DOLORIC-SP",
-        "CALCITRUE-D3",
-        "ORTHOGEL"
-      ]
-    },
-    {
       "id": "dr-3",
       "name": "Dr. Sunita Deshmukh",
       "degree": "MBBS, DGO, MS (Obstetrics & Gynaecology)",
@@ -155,5 +113,5 @@
   ],
   "orders": [],
   "callLogs": [],
-  "syncDate": "2026-09-05T19:59:47.955Z"
+  "syncDate": "2026-09-05T20:00:10.267Z"
 }
