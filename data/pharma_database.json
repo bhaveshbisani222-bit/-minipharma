@@ -10,8 +10,125 @@
     "currency": "₹"
   },
   "products": [],
-  "doctors": [],
-  "chemists": [],
+  "doctors": [
+    {
+      "id": "dr-1",
+      "name": "Dr. Rajesh Sharma",
+      "degree": "MBBS, MD (General Medicine)",
+      "specialty": "Physician",
+      "clinic": "City Health Care & Diabetes Center",
+      "area": "Civil Lines",
+      "address": "Shop 4, Civil Lines, Main Market",
+      "phone": "9876543210",
+      "visitTime": "1:00 PM - 3:00 PM",
+      "callingDays": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ],
+      "promotedProducts": [
+        "AZICHEM-500",
+        "PANTOZEN-DSR",
+        "VITALGOLD"
+      ]
+    },
+    {
+      "id": "dr-2",
+      "name": "Dr. Alok Verma",
+      "degree": "MBBS, MS (Orthopedics)",
+      "specialty": "Orthopedic",
+      "clinic": "Verma Bone & Joint Hospital",
+      "area": "Station Road",
+      "address": "Opposite District Hospital, Station Road",
+      "phone": "9823456781",
+      "visitTime": "2:00 PM - 4:00 PM",
+      "callingDays": [
+        "Tuesday",
+        "Thursday",
+        "Saturday"
+      ],
+      "promotedProducts": [
+        "DOLORIC-SP",
+        "CALCITRUE-D3",
+        "ORTHOGEL"
+      ]
+    },
+    {
+      "id": "dr-3",
+      "name": "Dr. Sunita Deshmukh",
+      "degree": "MBBS, DGO, MS (Obstetrics & Gynaecology)",
+      "specialty": "Gynecologist",
+      "clinic": "Matritva Maternity & Nursing Home",
+      "area": "Ring Road",
+      "address": "Near LIC Square, Ring Road",
+      "phone": "9765432109",
+      "visitTime": "11:30 AM - 1:30 PM",
+      "callingDays": [
+        "Monday",
+        "Thursday"
+      ],
+      "promotedProducts": [
+        "FERROGLOW-XT",
+        "CALCITRUE-D3",
+        "CLAVMOX-625"
+      ]
+    },
+    {
+      "id": "dr-4",
+      "name": "Dr. Vivek Saxena",
+      "degree": "MBBS, MD (Pediatrics), DCH",
+      "specialty": "Pediatrician",
+      "clinic": "Little Stars Child Clinic",
+      "area": "Medical Square",
+      "address": "2nd Floor, Apollo Arcade",
+      "phone": "9912345678",
+      "visitTime": "12:00 PM - 2:00 PM",
+      "callingDays": [
+        "Wednesday",
+        "Saturday"
+      ],
+      "promotedProducts": [
+        "AZICHEM-500",
+        "KOFSTOP-LS",
+        "MONTEL-LC"
+      ]
+    }
+  ],
+  "chemists": [
+    {
+      "id": "ch-1",
+      "storeName": "Sanjivani Medical Store",
+      "ownerName": "Pawan Kumar",
+      "phone": "9898989801",
+      "area": "Station Road",
+      "address": "Near Civil Hospital Gate, Station Road",
+      "dlNumber": "DL-20B/21B-45892",
+      "stockist": "Mahaveer Drug Distributors",
+      "creditDays": 30
+    },
+    {
+      "id": "ch-2",
+      "storeName": "Gupta Medicos & Surgical",
+      "ownerName": "Ramesh Gupta",
+      "phone": "9898989802",
+      "area": "Medical Square",
+      "address": "Shop 12, Medical Square Market",
+      "dlNumber": "DL-20B/21B-77123",
+      "stockist": "Mahaveer Drug Distributors",
+      "creditDays": 21
+    },
+    {
+      "id": "ch-3",
+      "storeName": "National Pharmacy",
+      "ownerName": "Amitabh Jain",
+      "phone": "9898989803",
+      "area": "Civil Lines",
+      "address": "Opposite Maternity Hospital",
+      "dlNumber": "DL-20B/21B-89341",
+      "stockist": "Balaji Pharma Distributors",
+      "creditDays": 15
+    }
+  ],
   "areas": [
     "Civil Lines",
     "Station Road",
