@@ -12,7 +12,14 @@
   "products": [],
   "doctors": [],
   "chemists": [],
-  "areas": [],
+  "areas": [
+    "Civil Lines",
+    "Station Road",
+    "Medical Square",
+    "Ring Road",
+    "Hospital Road",
+    "Central Market"
+  ],
   "stockists": [
     {
       "id": "stk-1",
